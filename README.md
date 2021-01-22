@@ -1,2 +1,2 @@
 # leetcode-rust
-Practice rust in leetcode
+Practice Rust on Leetcode
